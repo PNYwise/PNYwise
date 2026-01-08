@@ -30,6 +30,7 @@ I am a Backend Developer with a passion for crafting robust and scalable solutio
 ### 🗃 &nbsp;Databases
 
 ![Redis](https://img.shields.io/badge/redis-%232F2F2F.svg?style=for-the-badge&logo=redis&logoColor=%23DD0031)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/elasticsearch-%232F2F2F.svg?style=for-the-badge&logo=elasticsearch&logoColor=%23FEC514)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%232F2F2F.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%232F2F2F.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)
 
